@@ -38,7 +38,7 @@
     "gulp-zip": "^4.0.0",
     "npm": "^6.13.4",
     "run-sequence": "^1.2.2",
-    "trezor-connect": "^7.0.1",
+    "trezor-connect": "^7.0.5",
     "u2f-api": "^1.0.8",
     "vinyl-buffer": "^1.0.0",
     "vinyl-source-stream": "^1.1.0",
