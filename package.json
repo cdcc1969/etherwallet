@@ -43,7 +43,7 @@
     "vinyl-buffer": "^1.0.0",
     "vinyl-source-stream": "^1.1.0",
     "xss-filters": "^1.2.7",
-    "snyk": "^1.299.0"
+    "snyk": "^1.518.0"
   },
   "devDependencies": {
     "@ledgerhq/hw-app-eth": "^4.61.0",
