@@ -24,7 +24,7 @@
     "gulp": "^4.0.0",
     "gulp-autoprefixer": "^4.0.0",
     "gulp-bump": "^2.7.0",
-    "gulp-clean": "^0.3.2",
+    "gulp-clean": "^0.4.0",
     "gulp-concat": "^2.6.1",
     "gulp-cssnano": "^2.1.2",
     "gulp-file-include": "^1.1.0",
@@ -43,7 +43,7 @@
     "vinyl-buffer": "^1.0.0",
     "vinyl-source-stream": "^1.1.0",
     "xss-filters": "^1.2.7",
-    "snyk": "^1.299.0"
+    "snyk": "^1.685.0"
   },
   "devDependencies": {
     "@ledgerhq/hw-app-eth": "^4.61.0",
